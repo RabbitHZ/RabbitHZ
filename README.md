@@ -4,8 +4,6 @@
 
 ## Backend Developers 
 Focus on Java and Spring
-
-![profile-details-card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwajinkim&theme=nord_bright)
 <br/>
 <br/>
 
@@ -35,7 +33,7 @@ Focus on Java and Spring
 <br/>
 <br/>
 
-
+![profile-details-card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwajinkim&theme=nord_bright)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwajinkim&layout=compact&langs_count=10&title_color=607B9B&text_color=607B9B&bg_color=CEE0F4&hide_border=True)-->
 
 
