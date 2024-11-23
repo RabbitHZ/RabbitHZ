@@ -7,7 +7,6 @@ Focus on Java and Spring
 <br/>
 <br/>
 
-
 ### 🌏 Contact & Channels
 <a href="https://cookbook0.tistory.com/" target="_blank"><img src="https://shields.io/badge/Blog-EA5220?style=flat-square&logo=Tistory&logoColor=white" /></a>
 <a href="mailto:sistarv80@gmail.com" target="_blank"><img src="https://shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
@@ -34,7 +33,8 @@ Focus on Java and Spring
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwajinkim&layout=compact&langs_count=10&title_color=607B9B&text_color=607B9B&bg_color=CEE0F4&hide_border=True)
+![profile-details-card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwajinkim&theme=nord_bright)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwajinkim&layout=compact&langs_count=10&title_color=607B9B&text_color=607B9B&bg_color=CEE0F4&hide_border=True)-->
 
 
 <!--
