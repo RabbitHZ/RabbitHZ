@@ -14,7 +14,7 @@ Focus on Java and Spring
 <br/>
 
 ### 🛠 Tech Stack
-![java](https://img.shields.io/badge/Java-5DACDF?style=flat-square&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/Java-F78C40?style=flat-square&logo=OpenJDK&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![springsecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
