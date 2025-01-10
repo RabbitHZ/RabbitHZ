@@ -10,6 +10,8 @@ Focus on Java and Spring
 ### 🌏 Contact & Channels
 <a href="https://cookbook0.tistory.com/" target="_blank"><img src="https://shields.io/badge/Blog-EA5220?style=flat-square&logo=Tistory&logoColor=white" /></a>
 <a href="mailto:sistarv80@gmail.com" target="_blank"><img src="https://shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hwajin-kim-4a0380308/" target="_blank"><img src="https://shields.io/badge/LinkedIn-0854C1?style=flat-square&logo=&logoColor=white" /></a>
+
 <br/>
 <br/>
 
