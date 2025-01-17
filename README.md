@@ -3,8 +3,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwajinkim%2Fhit-counter&count_bg=%239CF4FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Backend Developer
-Focus on Java and Spring
-<br/>
+👋 Hello! I'm a third-year developer focusing on **Spring Framework** and **Java**. 🧑‍💻 <br/>
+True joy in defining, solving, and making a better solution. 🚀✨ <br/>
+Passionate about writing scalable code following **SOLID principles** 🛠️ <br/>
+and exploring **Generative AI** technology 🤖 for development. 🌱💡 <br/>
+
+
 <br/>
 <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/hwajinkim" width="600" height="300"/></a>
 
