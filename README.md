@@ -57,7 +57,7 @@ and exploring **Generative AI** technology 🤖 for development. 🌱💡 <br/>
 <br/>
 <br/>
 
-![profile-details-card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hwajinkim&theme=date_night)
+![profile-details-card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbitHZ&theme=date_night)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwajinkim&layout=compact&langs_count=10&title_color=607B9B&text_color=607B9B&bg_color=CEE0F4&hide_border=True)-->
 
 
