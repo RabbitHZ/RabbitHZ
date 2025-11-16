@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=150&section=header&text=Hi%20there!%20I'm%20Hwajin&fontSize=35&fontColor=F0586A)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwajinkim%2Fhit-counter&count_bg=%23F0586A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## Backend Developer
 👋 Hello! I'm a 4th-year developer focusing on **Spring** and **Java**. 🧑‍💻 <br/>
 True joy in defining, solving, and making a better solution. 🚀✨ <br/>
