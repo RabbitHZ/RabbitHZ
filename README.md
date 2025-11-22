@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=150&section=header&text=Hi%20there!%20I'm%20Hwajin&fontSize=35&fontColor=F0586A)
 
 ![Views](https://bazzi-server-464152216340.asia-northeast3.run.app/api/badges?url=https%3A%2F%2Fgithub.com%2FRabbitHZ&label=Views&color=f87171&fontSize=12)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FRabbitHZ&label=&icon=github&color=%23efadce&message=&style=flat&tz=UTC)
 
 ## Backend Developer
 👋 Hello! I'm a 4th-year developer focusing on **Spring** and **Java**. 🧑‍💻 <br/>
