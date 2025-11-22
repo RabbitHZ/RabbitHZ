@@ -34,13 +34,20 @@ and exploring **Generative AI** technology 🤖 for development. 🌱💡 <br/>
 ![gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
+![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![fastapi](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![nextdotjs](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![mariadb](https://img.shields.io/badge/MariaDB-4479A1?style=flat-square&logo=mariadb&logoColor=white)
 ![oracledb](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![redis](https://img.shields.io/badge/Redis-FF4438?&style=flat-square&logo=redis&logoColor=white)
 ![kafka](https://img.shields.io/badge/Kafka-231F20?&style=flat-square&logo=apachekafka&logoColor=white)
 
 ![amazonec2](https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![googlecloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -48,6 +55,7 @@ and exploring **Generative AI** technology 🤖 for development. 🌱💡 <br/>
 
 ![notion](https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white)
 ![mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 <br/>
 <br/>
 ### 🏆 Certification
@@ -59,15 +67,3 @@ and exploring **Generative AI** technology 🤖 for development. 🌱💡 <br/>
 
 ![profile-details-card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RabbitHZ&theme=date_night)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwajinkim&layout=compact&langs_count=10&title_color=607B9B&text_color=607B9B&bg_color=CEE0F4&hide_border=True)-->
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
